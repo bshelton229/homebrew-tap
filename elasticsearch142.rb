@@ -1,4 +1,4 @@
-class Elasticsearch < Formula
+class Elasticsearch142 < Formula
   homepage "http://www.elasticsearch.org"
   url "https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.4.2.tar.gz"
   sha1 "ae381615ec7f657e2a08f1d91758714f13d11693"
